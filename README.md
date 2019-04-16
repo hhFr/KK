@@ -3,12 +3,16 @@ Kana Keyboard character transform.
 
 キーボードのかな刻印に従った文字変換
 
-# 動作環境
-macOS 
-※Linux未対応 (tr が未対応のため)
-
 DKK:Dis-KK	
 KK の逆変換
+
+
+# 動作環境
+
+macOS 
+
+※Linux未対応 (tr が未対応のため)
+
 
 # Usage
 
@@ -16,10 +20,10 @@ KK [strings]
 
 DKK [strings]
 
-## Description
+# Description
 引数が無ければ標準入力を入力元にする。
 
-## 使用例
+# 使用例
 
 $ KK system 
 
@@ -38,7 +42,7 @@ $ echo はにりいと | DKK
 files
 
 
-## インストール
+# インストール
 PATHの通ったディレクトリにKKとDKKを配置
 
 実行属性を付与
