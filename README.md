@@ -3,6 +3,9 @@ Kana Keyboard character transform.
 
 キーボードのかな刻印に従った文字変換
 
+# 動作環境
+macOS 
+※Linux未対応 (tr が未対応のため)
 
 DKK:Dis-KK	
 KK の逆変換
