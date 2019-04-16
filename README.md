@@ -1,11 +1,10 @@
-# KK
+# KK/DKK
 Kana Keyboard character transform.
 
 キーボードのかな刻印に従った文字変換
 
 
-DKK Dis-KK
-
+DKK:Dis-KK	
 KK の逆変換
 
 # Usage
