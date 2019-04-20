@@ -9,9 +9,9 @@ KK の逆変換
 
 # 動作環境
 
-macOS 
+BSD系 (確認済み:macOS, FreeBSD) (未確認:他のBSD系)
 
-※Linux未対応 (tr が未対応のため)
+※Linuxは未対応 (tr がマルチバイト文字未対応のため)
 
 
 # Usage
